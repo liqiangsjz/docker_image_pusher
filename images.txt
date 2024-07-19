@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 P3TERX/Aria2-Pro-Docker:master
+XUJINKAI/aria2-with-webui:master
