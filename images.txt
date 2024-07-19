@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 P3TERX/Aria2-Pro-Docker:master
 XUJINKAI/aria2-with-webui:master
+tech-shrimp/docker_image_pusher:main
